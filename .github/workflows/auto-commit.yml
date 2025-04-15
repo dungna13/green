@@ -27,6 +27,3 @@ jobs:
           git add README.md
           git commit -m "Daily commit" || echo "No changes to commit"
           git push
-
-
-add auto commit workflow
